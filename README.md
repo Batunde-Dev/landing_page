@@ -1,3 +1,3 @@
-## Landing page for my project
+## Landing page for my alx foundation portfolio project
 
 
